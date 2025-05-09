@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">#CC0E0E</item>
+    </style>
+
+
+    <style name="Custom.IndicatorDark" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">#959595</item>
+    </style>
+
+
+
+
+
+</resources>

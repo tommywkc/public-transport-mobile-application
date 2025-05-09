@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:title="主頁"
+        android:icon="@drawable/home"
+
+        />
+    <item
+        android:id="@+id/navigation_favorite"
+        android:title="收藏"
+        android:icon="@drawable/star2"
+
+        />
+
+
+
+
+</menu>
+
