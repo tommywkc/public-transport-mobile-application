@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8c103682-89f0-4cd2-be49-927effdf098a)![image](https://github.com/user-attachments/assets/2b65ea86-c57e-4ea9-be04-c4b80af46510)![image](https://github.com/user-attachments/assets/7a9f5de8-9d74-4d1c-8b0c-c7fa5f543439)![image](https://github.com/user-attachments/assets/af3cfdf2-ea32-4a5f-9831-713e577a0803)# KMTR: Integrated Public Transport Application
+# KMTR: Integrated Public Transport Application
 
 ## About
 An integrated transportation application combining real-time information systems for Hong Kong's KMB (Kowloon Motor Bus) and MTR (Mass Transit Railway) services.
