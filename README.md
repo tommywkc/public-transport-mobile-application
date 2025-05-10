@@ -1,9 +1,10 @@
 KMB Routes</br>
-![Pasted Graphic](https://github.com/user-attachments/assets/cd53f859-c515-41b8-8117-67b2315a8f2f)
+![image](https://github.com/user-attachments/assets/c086e2fa-310f-447a-9d1e-5ff835885bd5)
 
 
 KMB Stops</br>
-![Pasted Graphic 1](https://github.com/user-attachments/assets/6c525b61-08a1-4298-b2cc-89e0b9ed332e)
+![image](https://github.com/user-attachments/assets/db8fb041-1c31-4ea4-b16e-6aa374ac09a2)
+
 
 
 
