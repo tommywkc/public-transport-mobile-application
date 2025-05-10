@@ -1,8 +1,10 @@
 KMB Routes</br>
-![image](https://github.com/user-attachments/assets/0ef3e50f-daf4-4c64-b358-e83645bcf61b)
+![Pasted Graphic](https://github.com/user-attachments/assets/cd53f859-c515-41b8-8117-67b2315a8f2f)
+
 
 KMB Stops</br>
-![image](https://github.com/user-attachments/assets/0755f74d-d15c-455b-8cfa-cdfebb4f9942)
+![Pasted Graphic 1](https://github.com/user-attachments/assets/6c525b61-08a1-4298-b2cc-89e0b9ed332e)
+
 
 
 MTR Routes</br>
