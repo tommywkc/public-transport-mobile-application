@@ -1,4 +1,4 @@
-# KMTR: Integrated Public Transport Application
+![image](https://github.com/user-attachments/assets/8c103682-89f0-4cd2-be49-927effdf098a)![image](https://github.com/user-attachments/assets/2b65ea86-c57e-4ea9-be04-c4b80af46510)![image](https://github.com/user-attachments/assets/7a9f5de8-9d74-4d1c-8b0c-c7fa5f543439)![image](https://github.com/user-attachments/assets/af3cfdf2-ea32-4a5f-9831-713e577a0803)# KMTR: Integrated Public Transport Application
 
 ## About
 An integrated transportation application combining real-time information systems for Hong Kong's KMB (Kowloon Motor Bus) and MTR (Mass Transit Railway) services.
@@ -38,12 +38,13 @@ Currently, passengers need separate applications for KMB and MTR services. KMTR 
 ### API Integration
 #### KMB APIs:
 - Route Information: `https://data.etabus.gov.hk/v1/transport/kmb/route/`
-- Bus Stop Data: `https://data.etabus.gov.hk/v1/transport/kmb/route-stop/`
+- Retrieves bus stop data: `https://data.etabus.gov.hk/v1/transport/kmb/route-stop/`, `https://data.etabus.gov.hk/v1/transport/kmb/stop/`
 - Real-time ETA: `https://data.etabus.gov.hk/v1/transport/kmb/eta/`
 
 #### MTR APIs:
-- Real-time Train Data: `https://rt.data.gov.hk/v1/transport/mtr/getSchedule.php`
-- Route Information: [MTR Open Data](https://data.gov.hk/en-data/dataset/mtr-data-routes-fares-barrier-free-facilities)
+- Real-time Train Data: `https://data.gov.hk/en-data/dataset/mtr-data2-nexttrain-data`(user guide),`https://rt.data.gov.hk/v1/transport/mtr/getSchedule.php`(API adress)
+- MTR Lines (except Light Rail) & Stations(in csv format): `https://data.gov.hk/en-data/dataset/mtr-data-routes-fares-barrier-free-facilities/resource/73895cac-ac2e-4fec-8525-4f5f1be0a718![image](https://github.com/user-attachments/assets/e11a8cd5-2e65-4afc-a529-be6b7ec59c40)
+`
 
 ### Development Stack
 - Platform: Native Android
